@@ -13,5 +13,5 @@ Each branch maps to a target kernel environment.yml from anaconda, to access MyB
 
 Note: due to a matplotlib warning run twice the first time
 
-Credits: @williamfgc @m-kim
+Credits: [@williamfgc](https://github.com/williamfgc) [@m-kim](https://github.com/m-kim)
 
